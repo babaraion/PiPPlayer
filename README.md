@@ -36,6 +36,7 @@ List of tools and technologies used in this project.
 - **SwiftUI**
 - **AVPlayerController and AVPlayer**
 - **MVVM/Clean Architecture**
+- **Unit Testing with XCTest**
 
 ## Project Structure
 
@@ -54,6 +55,9 @@ Project structure is as follows:
       - ViewModel
       - UI
  - CommonViews
+
+- PiPPlayerTests
+  - PreviewViewModelTests
 
 
 ## Usage
