@@ -42,7 +42,6 @@ List of tools and technologies used in this project.
 
 Project structure is as follows:
 
- - PiPPlayer
   - PiPPlayerApp
   - ContentView
   - PiPModule
